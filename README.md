@@ -28,28 +28,20 @@
 
 <hr />
 
-<!-- 4. ABOUT ME SECTION -->
+<!-- 4. ABOUT ME SECTION (CLEANED) -->
 ### 🤷‍♂️ About Me
 
-* 🎓 **Computer Science student** at **SZABIST, Karachi** with hands-on development experience[cite: 1].
-* 🧠 Built projects spanning **data structures (queues, stacks, linked lists), full-stack web architectures, and MVC frameworks**[cite: 1].
-* 💾 Skilled in **OOP, relational database design (MySQL, NeonDB), and CRUD application development**[cite: 1].
-* 🤖 Eager to learn and grow in **modern web technologies, API design, and scalable backend services**[cite: 1].
-* ⚡ Passionate about writing clean, well-structured code and applying computer science concepts to solve practical problems[cite: 1].
+* Computer Science student at SZABIST, Karachi with hands-on development experience.
+* Built projects spanning data structures (queues, stacks, linked lists), full-stack web architectures, and MVC frameworks.
+* Skilled in OOP, relational database design (MySQL, NeonDB), and CRUD application development.
+* Eager to learn and grow in modern web technologies, API design, and scalable backend services.
+* Passionate about writing clean, well-structured code and applying computer science concepts to solve practical problems.
 
 <hr />
 
-<!-- 5. NATIVE SCROLLING MARQUEE (NEVER BREAKS) -->
+<!-- 5. LANGUAGES & TOOLS (DE-DUPLICATED) -->
 ### 💻 Languages & Tools
 
-<!-- Native HTML Marquee with crisp icons -->
-<marquee speed="3" behavior="scroll" direction="left" HTML-marquee="true">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,cs,html,css,mysql,git,github,vscode,visualstudio" alt="Tech Stack" />
-</marquee>
-
-<br /><br />
-
-<!-- Clean, Highly Readable Structured Table -->
 | Area | Tech Stack |
 | :--- | :--- |
 | **🚀 Programming Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,js,cs" alt="Languages" /> |
@@ -58,7 +50,7 @@
 
 <hr />
 
-<!-- 6. FEATURED PROJECTS (2-COLUMN GRID) -->
+<!-- 6. FEATURED PROJECTS -->
 ### 🚀 Featured Projects
 
 <table>
@@ -66,19 +58,19 @@
     <!-- Project 1 -->
     <td width="50%" valign="top">
       <h4>☕ <a href="#">Cafe Management System (DSA)</a></h4>
-      <p>A complete cafe management system in Java utilizing core data structures to optimize order processing[cite: 1]. Implemented <b>Queues</b> for FIFO order handling, <b>Stacks</b> for dynamic billing history tracking, and <b>Linked Lists</b> for menu modifications[cite: 1]. Achieved highly efficient $O(1)$ complexity operations for core actions[cite: 1].</p>
+      <p>A complete cafe management system in Java utilizing core data structures to optimize order processing. Implemented <b>Queues</b> for FIFO order handling, <b>Stacks</b> for dynamic billing history tracking, and <b>Linked Lists</b> for menu modifications. Achieved highly efficient $O(1)$ complexity operations for core actions.</p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h4>🛒 <a href="#">Grocery Store Management System</a></h4>
-      <p>A full-stack grocery inventory and billing application developed in Java with JavaScript and Node.js integration[cite: 1]. Supports automated billing modules, dynamic product sales/profit calculations, role-based admin dashboard controls, and persistent relational database storage[cite: 1].</p>
+      <p>A full-stack grocery inventory and billing application developed in Java with JavaScript and Node.js integration. Supports automated billing modules, dynamic product sales/profit calculations, role-based admin dashboard controls, and persistent relational database storage.</p>
     </td>
   </tr>
   <tr>
     <!-- Project 3 -->
     <td width="50%" valign="top">
       <h4>🚗 <a href="#">CarBazar – Car Rental Web App</a></h4>
-      <p>A responsive car rental web application built using <b>C#</b> and <b>ASP.NET MVC</b> with strict controller-view-model segregation[cite: 1]. Integrates <b>Entity Framework</b> for relational database abstraction, supporting clean MVC data modeling and robust CRUD management for bookings and cars[cite: 1].</p>
+      <p>A responsive car rental web application built using <b>C#</b> and <b>ASP.NET MVC</b> with strict controller-view-model segregation. Integrates <b>Entity Framework</b> for relational database abstraction, supporting clean MVC data modeling and robust CRUD management for bookings and cars.</p>
     </td>
     <!-- Placeholder or 4th Project card -->
     <td width="50%" valign="top">
@@ -90,7 +82,7 @@
 
 <hr />
 
-<!-- 7. LIVE METRICS & STATISTICS (STABLE SERVERS) -->
+<!-- 7. LIVE METRICS & STATISTICS (FULLY FIXED AND ALIGNED) -->
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -102,7 +94,7 @@
 
   <br /><br />
 
-  <!-- Live Most Used Languages -->
+  <!-- Fixed Live Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibajabbareng&layout=compact&theme=tokyonight&hide_border=true" alt="Laibah's Top Languages" width="60%" />
 
   <br /><br />
