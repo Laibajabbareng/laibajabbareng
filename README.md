@@ -39,15 +39,15 @@
 
 <hr />
 
-<!-- 5. NEW LIVE TECH STACK MARQUEE & GRID -->
+<!-- 5. NATIVE SCROLLING MARQUEE (NEVER BREAKS) -->
 ### 💻 Languages & Tools
 
-<!-- Smooth Live Scrolling Marquee -->
-<p align="center">
-  <img src="https://html-marquee.vercel.app/api?theme=tokyonight&speed=3&dir=left&icons=cpp,java,js,cs,html,css,mysql,git,github,vscode,visualstudio" alt="Tech Stack Marquee" height="40" />
-</p>
+<!-- Native HTML Marquee with crisp icons -->
+<marquee speed="3" behavior="scroll" direction="left" HTML-marquee="true">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,cs,html,css,mysql,git,github,vscode,visualstudio" alt="Tech Stack" />
+</marquee>
 
-<br />
+<br /><br />
 
 <!-- Clean, Highly Readable Structured Table -->
 | Area | Tech Stack |
@@ -80,7 +80,7 @@
       <h4>🚗 <a href="#">CarBazar – Car Rental Web App</a></h4>
       <p>A responsive car rental web application built using <b>C#</b> and <b>ASP.NET MVC</b> with strict controller-view-model segregation[cite: 1]. Integrates <b>Entity Framework</b> for relational database abstraction, supporting clean MVC data modeling and robust CRUD management for bookings and cars[cite: 1].</p>
     </td>
-    <!-- Placeholder or 4th Project card (Optional) -->
+    <!-- Placeholder or 4th Project card -->
     <td width="50%" valign="top">
       <h4>🌟 More Projects Coming Soon!</h4>
       <p>Currently learning and exploring new technologies to design robust, clean-architecture web products. Keep an eye out for upcoming projects!</p>
@@ -90,7 +90,7 @@
 
 <hr />
 
-<!-- 7. LIVE METRICS & STATISTICS -->
+<!-- 7. LIVE METRICS & STATISTICS (STABLE SERVERS) -->
 ### 📊 GitHub Stats
 
 <div align="center">
