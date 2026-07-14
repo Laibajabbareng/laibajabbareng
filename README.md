@@ -5,37 +5,15 @@
 
   <br />
 
-  <!-- 2. GREETING -->
+  <!-- 2. GREETING & LIVE TYPING ANIMATION -->
   <h1>Hi 👋, I'm Laibah Abdul Jabbar</h1>
 
-  <h3>Computer Science Student exploring Full-Stack Development & Clean Architecture</h3>
+  <!-- Live Typing Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=005F73&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Data+Structures+Enthusiast;Building+Clean+Architectures" alt="Typing Animation" />
 
-  <!-- 3. HIGHLIGHTED GOAL -->
-  <p>
-    <samp>
-      <font size="4" color="#005f73"><b>Eager to dive deeper into Web Technologies & Real-World Systems</b></font>
-    </samp>
-  </p>
+  <br />
 
-</div>
-
-<hr />
-
-<!-- 4. ABOUT ME SECTION -->
-### 🤷‍♂️ About Me
-
-* 🎓 **Computer Science student** at **SZABIST, Karachi** with hands-on development experience.
-* 🧠 Built projects spanning **data structures (queues, stacks, linked lists), full-stack web architectures, and MVC frameworks**.
-* 💾 Skilled in **OOP, relational database design (MySQL, NeonDB), and CRUD application development**.
-* 🤖 Eager to learn and grow in **modern web technologies, API design, and scalable backend services**.
-* ⚡ Passionate about writing clean, well-structured code and applying computer science concepts to solve practical problems.
-
-<hr />
-
-<!-- 5. CONNECT WITH ME -->
-### 📫 Connect With Me
-
-<p align="left">
+  <!-- 3. LIVE SOCIAL BUTTONS -->
   <a href="mailto:laiba.jabbar112@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -45,26 +23,42 @@
   <a href="https://github.com/laibajabbareng" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+
+</div>
 
 <hr />
 
-<!-- 6. LANGUAGES SECTION -->
-### 💻 Languages
+<!-- 4. ABOUT ME SECTION -->
+### 🤷‍♂️ About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,cs,html,css" alt="Languages" />
-</p>
-
-### 🛠️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" alt="Tools" />
-</p>
+* 🎓 **Computer Science student** at **SZABIST, Karachi** with hands-on development experience[cite: 1].
+* 🧠 Built projects spanning **data structures (queues, stacks, linked lists), full-stack web architectures, and MVC frameworks**[cite: 1].
+* 💾 Skilled in **OOP, relational database design (MySQL, NeonDB), and CRUD application development**[cite: 1].
+* 🤖 Eager to learn and grow in **modern web technologies, API design, and scalable backend services**[cite: 1].
+* ⚡ Passionate about writing clean, well-structured code and applying computer science concepts to solve practical problems[cite: 1].
 
 <hr />
 
-<!-- 7. FEATURED PROJECTS (2-COLUMN GRID) -->
+<!-- 5. NEW LIVE TECH STACK MARQUEE & GRID -->
+### 💻 Languages & Tools
+
+<!-- Smooth Live Scrolling Marquee -->
+<p align="center">
+  <img src="https://html-marquee.vercel.app/api?theme=tokyonight&speed=3&dir=left&icons=cpp,java,js,cs,html,css,mysql,git,github,vscode,visualstudio" alt="Tech Stack Marquee" height="40" />
+</p>
+
+<br />
+
+<!-- Clean, Highly Readable Structured Table -->
+| Area | Tech Stack |
+| :--- | :--- |
+| **🚀 Programming Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,js,cs" alt="Languages" /> |
+| **🌐 Web Development** | <img src="https://skillicons.dev/icons?i=html,css" alt="Web Frontend" /> |
+| **💾 Databases & Tools** | <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" alt="Tools & DBs" /> |
+
+<hr />
+
+<!-- 6. FEATURED PROJECTS (2-COLUMN GRID) -->
 ### 🚀 Featured Projects
 
 <table>
@@ -72,19 +66,19 @@
     <!-- Project 1 -->
     <td width="50%" valign="top">
       <h4>☕ <a href="#">Cafe Management System (DSA)</a></h4>
-      <p>A complete cafe management system in Java utilizing core data structures to optimize order processing. Implemented <b>Queues</b> for FIFO order handling, <b>Stacks</b> for dynamic billing history tracking, and <b>Linked Lists</b> for menu modifications. Achieved highly efficient $O(1)$ complexity operations for core actions.</p>
+      <p>A complete cafe management system in Java utilizing core data structures to optimize order processing[cite: 1]. Implemented <b>Queues</b> for FIFO order handling, <b>Stacks</b> for dynamic billing history tracking, and <b>Linked Lists</b> for menu modifications[cite: 1]. Achieved highly efficient $O(1)$ complexity operations for core actions[cite: 1].</p>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h4>🛒 <a href="#">Grocery Store Management System</a></h4>
-      <p>A full-stack grocery inventory and billing application developed in Java with JavaScript and Node.js integration. Supports automated billing modules, dynamic product sales/profit calculations, role-based admin dashboard controls, and persistent relational database storage.</p>
+      <p>A full-stack grocery inventory and billing application developed in Java with JavaScript and Node.js integration[cite: 1]. Supports automated billing modules, dynamic product sales/profit calculations, role-based admin dashboard controls, and persistent relational database storage[cite: 1].</p>
     </td>
   </tr>
   <tr>
     <!-- Project 3 -->
     <td width="50%" valign="top">
       <h4>🚗 <a href="#">CarBazar – Car Rental Web App</a></h4>
-      <p>A responsive car rental web application built using <b>C#</b> and <b>ASP.NET MVC</b> with strict controller-view-model segregation. Integrates <b>Entity Framework</b> for relational database abstraction, supporting clean MVC data modeling and robust CRUD management for bookings and cars.</p>
+      <p>A responsive car rental web application built using <b>C#</b> and <b>ASP.NET MVC</b> with strict controller-view-model segregation[cite: 1]. Integrates <b>Entity Framework</b> for relational database abstraction, supporting clean MVC data modeling and robust CRUD management for bookings and cars[cite: 1].</p>
     </td>
     <!-- Placeholder or 4th Project card (Optional) -->
     <td width="50%" valign="top">
@@ -96,7 +90,7 @@
 
 <hr />
 
-<!-- 8. LIVE METRICS & STATISTICS -->
+<!-- 7. LIVE METRICS & STATISTICS -->
 ### 📊 GitHub Stats
 
 <div align="center">
